@@ -33,22 +33,7 @@
 - 需要网络连接以获取EPG数据
 - 生成的文件保存在当前目录
 
-## 运行方法
-```
-# 国内用户（推荐）
-bash <(curl -s https://www.ghproxy.cn/raw.githubusercontent.com/yl948/iptvtool/refs/heads/main/iptvtool.sh)
 
-# 或者使用sudo运行（如果需要root权限）
-sudo bash <(curl -s https://www.ghproxy.cn/raw.githubusercontent.com/yl948/iptvtool/refs/heads/main/iptvtool.sh)
-```
-
-```
-# 直接运行
-bash <(curl -s https://raw.githubusercontent.com/yl948/iptvtool/refs/heads/main/iptvtool.sh)
-
-# 或者使用sudo运行
-sudo bash <(curl -s https://raw.githubusercontent.com/yl948/iptvtool/refs/heads/main/iptvtool.sh)
-```
 ## 项目地址
 
 https://github.com/yl948/iptvtool
